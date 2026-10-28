@@ -1,0 +1,39 @@
+{
+  "version": "1.0.1",
+  "format": "unsigned iPhoneOS arm64",
+  "sha256": "342d5741f21a1e04daee667ce8abef7df1e6dce16ea856a5cdea93938d4d7cc9",
+  "bytes": 23618146,
+  "MiB": 22.52,
+  "previousBytes": 58947857,
+  "savedBytes": 35329711,
+  "savedPercent": 59.93,
+  "verifiedMainIllustrations": 112,
+  "verifiedThumbnails": 81,
+  "bundledWebPFiles": 194,
+  "legacyJPEGFiles": 0,
+  "widgetExtensions": 1,
+  "groups": {
+    "other_app_and_frameworks": {
+      "count": 77,
+      "compressedBytes": 11694398,
+      "uncompressedBytes": 40183727
+    },
+    "png_and_icons": {
+      "count": 2,
+      "compressedBytes": 117246,
+      "uncompressedBytes": 117241
+    },
+    "asset_catalogs": {
+      "count": 1,
+      "compressedBytes": 1892620,
+      "uncompressedBytes": 1928232
+    },
+    "webp_images": {
+      "count": 194,
+      "compressedBytes": 9838594,
+      "uncompressedBytes": 9835016
+    }
+  },
+  "run": "https://github.com/hongson117/lich-am-duong-ios/actions/runs/40683706571",
+  "release": "https://github.com/hongson117/lich-am-duong-ios/releases/tag/unsigned-4"
+}
