@@ -24,6 +24,9 @@ jobs:
     env:
       CI: '1'
       EXPO_NO_TELEMETRY: '1'
+      # Canonical Maven Central endpoint; React Native supports this override.
+      ENTERPRISE_REPOSITORY: https://repo.maven.apache.org/maven2
+      CURL_HOME: ${{ runner.temp }}/curl-config
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
@@ -36,6 +39,20 @@ jobs:
           xcodebuild -version
           node --version
           pod --version
+      - name: Bound network downloads and avoid HTTP2 stream failures
+        shell: bash
+        run: |
+          mkdir -p "$CURL_HOME"
+          cat > "$CURL_HOME/.curlrc" <<'EOF'
+          http1.1
+          retry = 3
+          retry-all-errors
+          retry-delay = 2
+          connect-timeout = 20
+          max-time = 300
+          speed-time = 45
+          speed-limit = 10240
+          EOF
       - name: Install locked dependencies
         run: npm ci
       - name: Verify source and artwork
