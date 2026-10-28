@@ -15,7 +15,7 @@ Môi trường: Windows, Node 24, Expo SDK 57. Kiểm tra giao diện bằng Edg
 
 ## Chưa xác minh trên thiết bị
 
-- Build native iOS, signing, TestFlight và App Review.
+- Signing, TestFlight và App Review. Native archive iPhoneOS arm64 chưa ký đã build thành công trên GitHub; xem BUILD-RESULT.md.
 - WidgetKit/Expo Widgets chạy thực tế, nội dung khi khóa màn hình và refresh timeline do iOS điều phối.
 - Local Notifications khi ứng dụng bị đóng, quyền bị thu hồi, máy khởi động lại và giờ hệ thống thay đổi.
 - Share sheet/Files/iCloud Drive trên iPhone.
