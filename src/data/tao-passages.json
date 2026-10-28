@@ -1,0 +1,650 @@
+[
+  {
+    "chapter": 1,
+    "original": "道可道，非常道，名可名，非常名",
+    "text": "Đạo có thể nói thành lời thì không phải Đạo thường hằng; tên có thể gọi ra thì không phải tên thường hằng.",
+    "meaning": "Lời nói và tên gọi giúp ta hiểu sự vật, nhưng không bao trọn thực tại. Lão Tử nhắc về giới hạn của khái niệm: đừng đồng nhất điều mình mô tả với toàn bộ điều đang có.",
+    "practice": "Lắng nghe một điều quen thuộc mà chưa vội gắn nhãn.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 1"
+  },
+  {
+    "chapter": 2,
+    "original": "有無相生，難易相成",
+    "text": "Có và không nương nhau mà sinh; khó và dễ nương nhau mà thành.",
+    "meaning": "Những mặt đối lập chỉ hiện rõ trong quan hệ với nhau. Một việc khó hôm nay có thể giúp ta nhận ra điều từng tưởng là dễ, nên cần nhìn sự việc trong bối cảnh thay vì phán xét một chiều.",
+    "practice": "Thử tìm mặt còn lại của một điều đang khiến bạn bận lòng.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 2"
+  },
+  {
+    "chapter": 3,
+    "original": "不尚賢，使民不爭",
+    "text": "Không đề cao người hiền thành đối tượng tranh danh, để dân bớt tranh giành.",
+    "meaning": "Việc tôn sùng địa vị và của hiếm có thể làm dấy lên tranh giành. Chương này bàn về cách trị dân bằng sự giản dị, nhưng cần đọc trong bối cảnh tư tưởng chính trị cổ đại.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 3"
+  },
+  {
+    "chapter": 4,
+    "original": "道沖而用之或不盈",
+    "text": "Đạo rỗng rang, dùng đến mà dường như chẳng đầy.",
+    "meaning": "Đạo được ví như khoảng rỗng mà công dụng không vơi. Các hình ảnh làm dịu sắc bén, gỡ rối và hòa ánh sáng gợi thái độ bớt phô trương, bớt va chạm.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 4"
+  },
+  {
+    "chapter": 5,
+    "original": "多言數窮，不如守中",
+    "text": "Nói nhiều dễ đến chỗ cùng; chẳng bằng giữ sự quân bình bên trong.",
+    "meaning": "Câu này gợi cách giữ sự rỗng rang và không tiêu hao mình vào lời lẽ bất tận. Giữ trung tâm không có nghĩa là im lặng trước mọi việc, mà là biết khi nào lời nói còn hữu ích.",
+    "practice": "Dừng một nhịp trước khi trả lời một cuộc tranh luận.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 5"
+  },
+  {
+    "chapter": 6,
+    "original": "谷神不死，是謂玄牝",
+    "text": "Thần của hang sâu không chết, gọi là nguồn mẹ huyền diệu.",
+    "meaning": "Hình ảnh hang sâu và nguồn mẹ diễn tả sức sinh thành âm thầm, không cùng. Chương này dùng biểu tượng để gợi về Đạo, không phải một mô tả vật lý hay sinh học.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 6"
+  },
+  {
+    "chapter": 7,
+    "original": "後其身而身先；外其身而身存",
+    "text": "Đặt mình phía sau mà lại được ở trước; không khư khư vì mình mà mình được gìn giữ.",
+    "meaning": "Trong mạch văn về sự vô tư, người không luôn tranh phần hơn có thể tạo nên lòng tin bền vững. Đây không phải mẹo nhún nhường để giành lợi, mà là thay đổi động cơ từ vị kỷ sang rộng mở.",
+    "practice": "Nhường một phần thuận lợi cho người cùng làm việc.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 7"
+  },
+  {
+    "chapter": 8,
+    "original": "上善若水。水善利萬物而不爭",
+    "text": "Cái thiện cao nhất giống như nước: làm lợi cho muôn vật mà không tranh.",
+    "meaning": "Nước nuôi dưỡng, thích ứng và tìm đến chỗ thấp. Lão Tử dùng hình ảnh ấy để nói về sức mạnh của sự khiêm nhường và hữu ích, không cần hơn thua để chứng tỏ giá trị.",
+    "practice": "Làm một việc có ích mà không cần người khác biết đến.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 8"
+  },
+  {
+    "chapter": 9,
+    "original": "功遂身退，天之道",
+    "text": "Việc hoàn thành thì biết lui lại, đó là đạo của trời.",
+    "meaning": "Mọi quá trình đều có lúc phát triển và lúc nên dừng. Biết buông sự bám víu vào thành tích giúp ta dành chỗ cho người khác và cho giai đoạn tiếp theo.",
+    "practice": "Hoàn tất một việc rồi cho mình khoảng nghỉ thật sự.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 9"
+  },
+  {
+    "chapter": 10,
+    "original": "生而不有，為而不恃，長而不宰",
+    "text": "Nuôi sinh mà không chiếm hữu; làm mà không cậy công; giúp lớn lên mà không làm chủ.",
+    "meaning": "Chăm sóc không đồng nghĩa với sở hữu. Câu này diễn tả đức nuôi dưỡng: tạo điều kiện cho người và vật phát triển theo bản tính, thay vì dùng công sức đã bỏ ra để kiểm soát.",
+    "practice": "Giúp người thân một việc và để họ tự chọn bước tiếp theo.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 10"
+  },
+  {
+    "chapter": 11,
+    "original": "有之以為利，無之以為用",
+    "text": "Cái có đem lại lợi; khoảng không làm nên công dụng.",
+    "meaning": "Một chiếc bình hữu ích nhờ phần rỗng bên trong, một căn phòng hữu ích nhờ khoảng trống. Câu kinh nhắc ta nhận ra giá trị của những gì không phô bày, không lấp đầy.",
+    "practice": "Để trống một khoảng nhỏ trong lịch hôm nay.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 11"
+  },
+  {
+    "chapter": 12,
+    "original": "是以聖人為腹不為目",
+    "text": "Bởi vậy, bậc thánh chăm cái thiết yếu nuôi sống, không chạy theo điều đẹp mắt.",
+    "meaning": "Kích thích quá mức và của hiếm có thể khiến con người mất sự quân bình. Lão Tử phân biệt nuôi dưỡng nhu cầu thiết yếu với việc bị vẻ ngoài sai khiến.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 12"
+  },
+  {
+    "chapter": 13,
+    "original": "寵辱若驚，貴大患若身",
+    "text": "Được sủng ái hay chịu nhục đều dễ khiến kinh sợ; nỗi lo lớn gắn với chính thân mình.",
+    "meaning": "Sự sủng ái lẫn nhục nhã đều làm ta lo sợ nếu bản thân lệ thuộc hoàn toàn vào đánh giá bên ngoài. Chương này đặt lại quan hệ giữa việc quý thân và trách nhiệm với thiên hạ.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 13"
+  },
+  {
+    "chapter": 14,
+    "original": "執古之道，以御今之有",
+    "text": "Giữ Đạo từ xưa để ứng xử với những việc đang có hôm nay.",
+    "meaning": "Đạo được gợi bằng những điều không thể thấy, nghe hay nắm lấy. Người đọc được mời giữ nguyên tắc sâu xa giữa biến đổi, thay vì cố đóng khung Đạo thành một vật.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 14"
+  },
+  {
+    "chapter": 15,
+    "original": "孰能濁以靜之徐清",
+    "text": "Ai có thể để điều đục lắng yên mà dần trong lại?",
+    "meaning": "Khi nước đục được để yên, cặn có thể lắng xuống. Hình ảnh ấy gợi sự kiên nhẫn: có những rối ren cần khoảng lặng để nhìn rõ trước khi hành động.",
+    "practice": "Tạm hoãn một phản ứng nóng vội, rồi nhìn lại khi bình tĩnh.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 15"
+  },
+  {
+    "chapter": 16,
+    "original": "致虛極，守靜篤",
+    "text": "Đạt đến sự rỗng rang sâu nhất; giữ lòng tĩnh lặng thật vững.",
+    "meaning": "Rỗng rang là bớt để ham muốn và định kiến lấp kín mình. Tĩnh lặng giúp quan sát nhịp sinh trưởng rồi trở về của vạn vật, không phải trốn tránh đời sống.",
+    "practice": "Dành vài phút ngồi yên và quan sát mà không vội đánh giá.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 16"
+  },
+  {
+    "chapter": 17,
+    "original": "功成事遂，百姓皆謂我自然",
+    "text": "Công thành, việc xong, mọi người đều nói: tự chúng ta làm nên như vậy.",
+    "meaning": "Người dẫn dắt tốt tạo điều kiện để người khác tự trưởng thành và nhận trách nhiệm. Thành quả không cần tập trung vào danh tiếng của người lãnh đạo.",
+    "practice": "Trao quyền làm một việc và ghi nhận công sức của người thực hiện.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 17"
+  },
+  {
+    "chapter": 18,
+    "original": "大道廢，有仁義",
+    "text": "Khi Đạo lớn bị bỏ, nhân nghĩa mới được nêu cao.",
+    "meaning": "Chương này đặt những đức tính được ca ngợi cạnh hoàn cảnh suy thoái làm chúng nổi bật. Nó gợi câu hỏi về gốc của đời sống đạo đức, không đơn giản phủ nhận lòng nhân hay hiếu nghĩa.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 18"
+  },
+  {
+    "chapter": 19,
+    "original": "見素抱樸，少私寡欲",
+    "text": "Giữ sự mộc mạc, ôm lấy cái chất phác; bớt lòng riêng, giảm ham muốn.",
+    "meaning": "Câu kinh hướng về đời sống ít tô vẽ và ít bị ham muốn lôi kéo. Mộc mạc không phải thiếu thốn, mà là biết điều gì thiết yếu để sống chân thật hơn.",
+    "practice": "Bớt một nhu cầu không cần thiết trong hôm nay.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 19"
+  },
+  {
+    "chapter": 20,
+    "original": "眾人皆有以，而我獨頑似鄙",
+    "text": "Mọi người đều tỏ ra có chỗ dùng, riêng ta như vụng về và mộc mạc.",
+    "meaning": "Giọng văn diễn tả sự lạc lõng của người không chạy theo thói quen và hứng thú chung. Hình ảnh nương vào mẹ gợi việc quay về nguồn nuôi dưỡng thay vì tìm xác nhận từ bên ngoài.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 20"
+  },
+  {
+    "chapter": 21,
+    "original": "孔德之容，惟道是從",
+    "text": "Dáng vẻ của đức lớn chỉ thuận theo Đạo.",
+    "meaning": "Đạo không dễ hình dung nhưng được nói như nguồn chứa mầm sống và sự đáng tin. Đức lớn không áp đặt một khuôn riêng mà thuận theo nguồn vận hành sâu xa ấy.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 21"
+  },
+  {
+    "chapter": 22,
+    "original": "曲則全，枉則直",
+    "text": "Biết uốn mình thì được toàn vẹn; biết chịu cong thì có thể trở nên thẳng.",
+    "meaning": "Lão Tử nói bằng nghịch lý để chỉ sự linh hoạt. Cứng nhắc trước mọi hoàn cảnh dễ làm ta tổn hao; biết điều chỉnh cách đi có thể giúp giữ được điều cốt lõi.",
+    "practice": "Thử đổi cách tiếp cận nhưng vẫn giữ mục đích tốt đẹp.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 22"
+  },
+  {
+    "chapter": 23,
+    "original": "希言自然",
+    "text": "Ít lời là thuận với tự nhiên.",
+    "meaning": "Mạch văn nói rằng gió mạnh và mưa lớn cũng không kéo dài mãi. Lời nhắc là bớt sự áp đặt và phô trương, để hành động đúng lúc có tiếng nói của nó.",
+    "practice": "Nói ngắn gọn một điều cần nói, rồi dành chỗ cho người khác.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 23"
+  },
+  {
+    "chapter": 24,
+    "original": "企者不立，跨者不行",
+    "text": "Nhón chân thì khó đứng vững; sải bước quá rộng thì khó đi xa.",
+    "meaning": "Cố nâng mình quá mức hoặc tiến vượt khả năng có thể làm mất nền tảng. Sự bền bỉ cần nhịp đi vừa sức, thay vì luôn gắng tỏ ra nổi bật.",
+    "practice": "Chọn một bước tiến nhỏ mà bạn có thể duy trì đều đặn.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 24"
+  },
+  {
+    "chapter": 25,
+    "original": "人法地，地法天，天法道，道法自然",
+    "text": "Người theo đất, đất theo trời, trời theo Đạo; Đạo theo sự tự nhiên.",
+    "meaning": "Tự nhiên ở đây có thể hiểu là tự nó như vậy, không do cưỡng ép. Con người sống trong những quan hệ lớn hơn mình, nên cần quan sát quy luật thay vì chỉ đòi mọi việc theo ý muốn.",
+    "practice": "Điều chỉnh một kế hoạch cho phù hợp hoàn cảnh thực tế.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 25"
+  },
+  {
+    "chapter": 26,
+    "original": "重為輕根，靜為躁君",
+    "text": "Nặng là gốc của nhẹ; tĩnh là chủ của động.",
+    "meaning": "Sự vững vàng bên trong giúp ta hành động linh hoạt bên ngoài. Khi chỉ chạy theo kích động, ta dễ mất gốc; giữ tĩnh là giữ khả năng tự định hướng.",
+    "practice": "Xác định điều cốt lõi trước khi nhận thêm một việc.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 26"
+  },
+  {
+    "chapter": 27,
+    "original": "善行無轍迹",
+    "text": "Người khéo đi không để lại dấu vết.",
+    "meaning": "Cái khéo không nằm ở phô trương kỹ thuật mà ở sự phù hợp tự nhiên. Có thể hiểu đây là lời gợi về hành động tinh tế, đạt việc mà không tạo thêm vướng mắc.",
+    "practice": "Giải quyết một việc theo cách đơn giản và ít gây xáo trộn.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 27"
+  },
+  {
+    "chapter": 28,
+    "original": "知其雄，守其雌，為天下谿",
+    "text": "Biết cái mạnh mà giữ cái mềm, làm khe suối của thiên hạ.",
+    "meaning": "Câu kinh đặt sức mạnh bên cạnh sự tiếp nhận và khiêm nhường. Khe suối nhận nước từ nhiều nơi vì ở thấp, nên trở thành hình ảnh của khả năng bao dung.",
+    "practice": "Dùng khả năng của mình để nâng đỡ, thay vì lấn át.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 28"
+  },
+  {
+    "chapter": 29,
+    "original": "是以聖人去甚，去奢，去泰",
+    "text": "Bởi vậy, bậc thánh bỏ điều thái quá, bỏ xa xỉ, bỏ kiêu căng.",
+    "meaning": "Thiên hạ được ví như vật thiêng không thể tùy tiện thao túng. Vì sự vật có nhịp khác nhau, bậc thánh bỏ sự thái quá, xa xỉ và kiêu ngạo.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 29"
+  },
+  {
+    "chapter": 30,
+    "original": "以道佐人主者，不以兵強天下",
+    "text": "Người lấy Đạo giúp bậc cầm quyền không dùng binh lực để cưỡng ép thiên hạ.",
+    "meaning": "Dùng vũ lực gây hậu quả trở lại, để lại hoang tàn và tổn thương. Ngay khi buộc phải đạt mục đích, chương này vẫn cảnh báo sự kiêu ngạo, khoe chiến thắng và lạm dụng sức mạnh.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 30"
+  },
+  {
+    "chapter": 31,
+    "original": "兵者不祥之器，非君子之器",
+    "text": "Binh khí là vật không lành, không phải thứ người quân tử ưa dùng.",
+    "meaning": "Binh khí được xem là điều không lành; việc sử dụng chỉ ở thế bất đắc dĩ. Chiến thắng gắn với tang thương, không phải dịp tôn vinh việc làm tổn hại sinh mạng.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 31"
+  },
+  {
+    "chapter": 32,
+    "original": "知止所以不殆",
+    "text": "Biết dừng là cách tránh nguy.",
+    "meaning": "Đạo mộc mạc, vô danh được ví với nguồn quy tụ muôn vật. Khi tổ chức và tên gọi hình thành, con người cần biết giới hạn để không đánh mất sự quân bình.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 32"
+  },
+  {
+    "chapter": 33,
+    "original": "知人者智，自知者明",
+    "text": "Biết người là trí; biết mình là sáng.",
+    "meaning": "Hiểu người khác là một năng lực; nhận ra giới hạn, động cơ và thiên kiến của chính mình còn đòi hỏi sự sáng suốt sâu hơn. Tự biết giúp ta bớt bị cái tôi dẫn dắt.",
+    "practice": "Gọi tên một điểm mạnh và một giới hạn của bản thân.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 33"
+  },
+  {
+    "chapter": 34,
+    "original": "功成不名有",
+    "text": "Công việc thành mà không nhận là sở hữu của mình.",
+    "meaning": "Đạo nuôi dưỡng muôn vật nhưng không nhận quyền sở hữu hay đòi được tôn làm chủ. Sự lớn lao ở đây không dựa vào tự nhận mình vĩ đại.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 34"
+  },
+  {
+    "chapter": 35,
+    "original": "道之出口，淡乎其無味",
+    "text": "Đạo nói ra thì nhạt, dường như không có vị.",
+    "meaning": "Âm nhạc và món ngon dễ thu hút người qua đường, còn Đạo được nói như nhạt mà dùng không hết. Giá trị bền vững không nhất thiết gây kích thích tức thì.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 35"
+  },
+  {
+    "chapter": 36,
+    "original": "柔弱勝剛強",
+    "text": "Mềm yếu có thể thắng cứng mạnh.",
+    "meaning": "Sự mềm dẻo có thể thích ứng nơi sự cứng nhắc bị gãy. Trong Đạo Đức Kinh, đây là một cách nhìn sức mạnh qua tính bền, sự linh hoạt và khả năng không đối đầu trực diện.",
+    "practice": "Thử một cách xử lý ôn hòa cho điều đang căng thẳng.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 36"
+  },
+  {
+    "chapter": 37,
+    "original": "道常無為，而無不為",
+    "text": "Đạo thường không cưỡng làm, mà không việc gì không được làm thành.",
+    "meaning": "Vô vi không đơn thuần là không làm gì, mà là không thêm sự áp đặt trái nhịp tự nhiên. Sự chất phác và giảm ham muốn được xem như nền của trật tự tự thành.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 37"
+  },
+  {
+    "chapter": 38,
+    "original": "上德不德，是以有德",
+    "text": "Đức cao không tự xem mình có đức, bởi vậy mới có đức.",
+    "meaning": "Đức cao không bám vào hình ảnh mình có đức. Chương phân biệt sự sống động từ bên trong với lớp nghi thức bên ngoài, cảnh báo việc chỉ giữ phần vỏ.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 38"
+  },
+  {
+    "chapter": 39,
+    "original": "故貴以賤為本，高以下為基",
+    "text": "Cái quý lấy cái thấp làm gốc; cái cao lấy chỗ dưới làm nền.",
+    "meaning": "Trời, đất và muôn vật được diễn tả nhờ sự thống nhất mà vận hành. Người ở vị trí cao cần nhớ gốc thấp, không xem địa vị của mình là điều tự đủ.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 39"
+  },
+  {
+    "chapter": 40,
+    "original": "反者道之動；弱者道之用",
+    "text": "Trở về là sự vận động của Đạo; mềm yếu là cách Đạo vận dụng.",
+    "meaning": "Phát triển không chỉ là đi thêm mà còn là trở lại gốc. Câu kinh nhấn mạnh sự chuyển hóa và sức mạnh kín đáo, khác với cố gắng cưỡng ép mọi thứ tiến mãi một chiều.",
+    "practice": "Quay lại một nguyên tắc giản dị đã từng giúp bạn sống vững.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 40"
+  },
+  {
+    "chapter": 41,
+    "original": "上士聞道，勤而行之",
+    "text": "Người bậc cao nghe Đạo thì chuyên cần thực hành.",
+    "meaning": "Người nghe Đạo phản ứng khác nhau vì Đạo thường trái với thước đo thông thường. Các nghịch lý nhắc ta đừng đánh giá sự sâu sắc chỉ bằng vẻ dễ hiểu hay nổi bật.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 41"
+  },
+  {
+    "chapter": 42,
+    "original": "萬物負陰而抱陽，沖氣以為和",
+    "text": "Muôn vật mang âm và ôm dương, nhờ khí hòa hợp mà thành sự quân bình.",
+    "meaning": "Hình ảnh một sinh hai, hai sinh ba diễn tả tiến trình hình thành muôn vật theo lối biểu tượng. Âm dương và sự hòa hợp gợi cách hiểu các mặt khác nhau cùng tham gia vào sự sống.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 42"
+  },
+  {
+    "chapter": 43,
+    "original": "天下之至柔，馳騁天下之至堅",
+    "text": "Cái mềm nhất trong thiên hạ có thể đi qua cái cứng nhất.",
+    "meaning": "Câu kinh nối sự mềm dẻo với hiệu quả của hành động ít cưỡng ép. Có những trở ngại được tháo gỡ bằng kiên nhẫn và thấu hiểu, thay vì thêm sức ép.",
+    "practice": "Lắng nghe nguyên nhân trước khi thúc người khác thay đổi.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 43"
+  },
+  {
+    "chapter": 44,
+    "original": "知足不辱，知止不殆，可以長久",
+    "text": "Biết đủ thì không nhục; biết dừng thì không nguy; nhờ vậy có thể bền lâu.",
+    "meaning": "Danh và của dễ khiến con người đánh đổi quá nhiều. Biết đủ, biết dừng là nhận ra giới hạn của việc theo đuổi, để không làm tổn hại điều quan trọng hơn.",
+    "practice": "Đặt một điểm dừng rõ ràng cho công việc hôm nay.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 44"
+  },
+  {
+    "chapter": 45,
+    "original": "大直若屈，其用不居。大巧若拙，其用不輟。大辯若訥，其用不差。",
+    "text": "Rất thẳng như cong mà công dụng không ngưng; rất khéo như vụng mà công dụng không dứt; rất giỏi nói như ít lời mà công dụng không sai.",
+    "meaning": "Bề ngoài không luôn phản ánh chiều sâu. Người thành thạo có thể hành động giản dị đến mức không gây ấn tượng, nên đừng vội đo giá trị bằng vẻ nổi bật.",
+    "practice": "Đánh giá một việc bằng tác dụng thực tế thay vì vẻ hào nhoáng.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 45"
+  },
+  {
+    "chapter": 46,
+    "original": "知足之足，常足矣",
+    "text": "Cái đủ của sự biết đủ mới là cái đủ lâu bền.",
+    "meaning": "Nếu cảm giác đủ chỉ đến sau khi có thêm, nó có thể không bao giờ đến. Lão Tử gợi một sự đổi hướng: nhìn rõ nhu cầu thực và bớt để ham muốn không giới hạn điều khiển.",
+    "practice": "Nhận ra một điều đang có mà bạn thật sự trân trọng.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 46"
+  },
+  {
+    "chapter": 47,
+    "original": "不出戶，知天下",
+    "text": "Không ra khỏi cửa mà hiểu thiên hạ.",
+    "meaning": "Chương đề cao khả năng nhận ra nguyên lý mà không bị cuốn vào việc tích lũy trải nghiệm bên ngoài. Có thể đọc như lời mời quan sát sâu, không phải phủ nhận giá trị của đi xa hay học hỏi.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 47"
+  },
+  {
+    "chapter": 48,
+    "original": "為學日益，為道日損",
+    "text": "Theo việc học thì mỗi ngày thêm; theo Đạo thì mỗi ngày bớt.",
+    "meaning": "Việc học tích lũy hiểu biết, còn tu dưỡng theo Đạo được diễn tả như bớt sự cưỡng cầu và can thiệp. Câu này không phủ nhận học hỏi, mà phân biệt hai hướng thực hành.",
+    "practice": "Bỏ bớt một sự kiểm soát không cần thiết.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 48"
+  },
+  {
+    "chapter": 49,
+    "original": "聖人無常心，以百姓心為心",
+    "text": "Bậc thánh không cố chấp một lòng riêng, lấy lòng của dân làm lòng mình.",
+    "meaning": "Người có trách nhiệm cần mở mình trước nhu cầu của người khác. Đây là thái độ lắng nghe và bao dung, thay vì đem ý thích cá nhân làm thước đo cho mọi người.",
+    "practice": "Hỏi người liên quan thật sự cần gì trước khi quyết định thay họ.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 49"
+  },
+  {
+    "chapter": 50,
+    "original": "出生入死",
+    "text": "Ra đời, rồi đi vào cõi chết.",
+    "meaning": "Chương suy ngẫm về sống, chết và việc quá bám chấp vào sự sống. Những hình ảnh không bị thú dữ hay binh khí làm hại là ngôn ngữ triết học cổ, không phải cam kết bảo vệ thể chất.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 50"
+  },
+  {
+    "chapter": 51,
+    "original": "道生之，德畜之",
+    "text": "Đạo sinh ra, đức nuôi dưỡng.",
+    "meaning": "Đạo sinh, đức nuôi, hoàn cảnh làm thành muôn vật. Sự nuôi dưỡng sâu xa không đi cùng chiếm hữu, kể công hay thống trị.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 51"
+  },
+  {
+    "chapter": 52,
+    "original": "既知其子，復守其母，沒身不殆",
+    "text": "Đã biết những gì sinh ra, lại giữ lấy nguồn mẹ, thì suốt đời tránh được nguy.",
+    "meaning": "Biết nguồn rồi hiểu biểu hiện, hiểu biểu hiện mà vẫn giữ nguồn giúp tránh tản mát. Chương nhắc giữ sự mềm và trở lại ánh sáng bên trong thay vì bị kích thích bên ngoài lôi kéo.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 52"
+  },
+  {
+    "chapter": 53,
+    "original": "大道甚夷，而民好徑",
+    "text": "Đường lớn rất bằng phẳng, mà người ta lại thích lối tắt.",
+    "meaning": "Đại đạo bằng phẳng nhưng con người thích đường tắt. Hình ảnh cung điện xa hoa cạnh ruộng hoang và kho trống phê phán sự chênh lệch cùng lối sống vụ lợi của người cầm quyền.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 53"
+  },
+  {
+    "chapter": 54,
+    "original": "善建者不拔，善抱者不脫",
+    "text": "Khéo gây dựng thì không bị nhổ bật; khéo gìn giữ thì không tuột mất.",
+    "meaning": "Điều được xây và giữ có gốc thì bền. Tu dưỡng bắt đầu ở bản thân rồi mở rộng đến gia đình, cộng đồng và thiên hạ, thay vì chỉ nói lý tưởng ở nơi xa.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 54"
+  },
+  {
+    "chapter": 55,
+    "original": "含德之厚，比於赤子",
+    "text": "Người chứa đức dày được ví như trẻ sơ sinh.",
+    "meaning": "Đứa trẻ được dùng làm biểu tượng của sự mềm, hòa và nguyên vẹn. Các hình ảnh sinh lực nên được hiểu trong ngôn ngữ cổ, không thay cho hướng dẫn y khoa hay hứa hẹn trường sinh.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 55"
+  },
+  {
+    "chapter": 56,
+    "original": "知者不言，言者不知",
+    "text": "Người biết không phô lời; người chỉ phô lời chưa hẳn đã biết.",
+    "meaning": "Người hiểu sâu không nhất thiết nói nhiều để chứng tỏ. Làm dịu sự sắc bén, gỡ rối và hòa mình với đời hướng về thái độ quân bình, không lệ thuộc khen chê.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 56"
+  },
+  {
+    "chapter": 57,
+    "original": "我無為而民自化",
+    "text": "Ta không cưỡng làm thì dân tự chuyển hóa.",
+    "meaning": "Cấm đoán, mưu mẹo và ham muốn phô trương quá mức có thể tạo thêm bất ổn. Vô vi trong quản trị gợi sự tiết chế của người nắm quyền và tin vào khả năng tự tổ chức.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 57"
+  },
+  {
+    "chapter": 58,
+    "original": "禍兮福之所倚；福兮禍之所伏",
+    "text": "Họa là chỗ phúc tựa vào; phúc là nơi họa ẩn dưới.",
+    "meaning": "Điều được xem là phúc có thể chứa mầm họa và ngược lại. Người sáng suốt giữ sự ngay thẳng mà không sắc cạnh, có ánh sáng mà không làm chói người khác.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 58"
+  },
+  {
+    "chapter": 59,
+    "original": "治人事天，莫若嗇",
+    "text": "Trị người, thuận trời, không gì bằng biết tiết chế.",
+    "meaning": "Tiết kiệm ở đây rộng hơn chuyện tiền bạc: đó là biết giữ và tích lũy đức, không tiêu hao quá mức. Có nền sâu giúp ứng xử với trách nhiệm lớn và đường dài.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 59"
+  },
+  {
+    "chapter": 60,
+    "original": "治大國，若烹小鮮",
+    "text": "Trị nước lớn như nấu cá nhỏ.",
+    "meaning": "Hình ảnh nấu cá nhỏ gợi sự nhẹ tay, ít đảo xáo và không can thiệp thô bạo. Sự yên ổn đến khi quyền lực không gây thêm tổn hại cho đời sống.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 60"
+  },
+  {
+    "chapter": 61,
+    "original": "大國者下流",
+    "text": "Nước lớn nên như chỗ thấp nơi các dòng nước hội về.",
+    "meaning": "Nước lớn được ví với chỗ thấp nơi các dòng hội tụ. Quan hệ giữa lớn và nhỏ có thể tìm được lợi ích chung nếu bớt tranh hơn và biết khiêm nhường.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 61"
+  },
+  {
+    "chapter": 62,
+    "original": "道者萬物之奧",
+    "text": "Đạo là chỗ sâu kín để muôn vật nương tựa.",
+    "meaning": "Đạo được nói là chỗ nương của muôn vật, quý với người tốt và vẫn có ích cho người chưa tốt. Chương mở ra khả năng sửa đổi, thay vì định đoạt một người bằng lỗi lầm hiện tại.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 62"
+  },
+  {
+    "chapter": 63,
+    "original": "圖難於其易，為大於其細",
+    "text": "Lo việc khó từ khi còn dễ; làm việc lớn từ những điều nhỏ.",
+    "meaning": "Những vấn đề lớn thường hình thành qua nhiều bước nhỏ. Nhận biết sớm và chăm chút chi tiết giúp ta hành động vừa sức, không phải chờ đến lúc mọi việc vượt khỏi tầm tay.",
+    "practice": "Làm ngay một phần nhỏ của việc bạn đang trì hoãn.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 63"
+  },
+  {
+    "chapter": 64,
+    "original": "千里之行，始於足下",
+    "text": "Hành trình nghìn dặm bắt đầu từ dưới chân.",
+    "meaning": "Điều xa lớn bắt đầu bằng bước đi cụ thể ở hiện tại. Câu kinh nằm trong mạch nhắc đến việc chăm lo từ khi sự vật còn nhỏ và chưa rối ren.",
+    "practice": "Chọn một việc có thể bắt đầu trong vài phút tới.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 64"
+  },
+  {
+    "chapter": 65,
+    "original": "玄德深矣，遠矣",
+    "text": "Đức huyền diệu sâu thay, xa thay.",
+    "meaning": "Chương phê phán cách dùng sự khôn khéo để thao túng dân. Cần đọc lời về ngu và trí trong bối cảnh cổ đại, phân biệt chất phác với việc phủ nhận quyền học hỏi của con người.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 65"
+  },
+  {
+    "chapter": 66,
+    "original": "江海所以能為百谷王者，以其善下之",
+    "text": "Sông biển làm vua trăm dòng nước vì khéo ở chỗ thấp.",
+    "meaning": "Ở thấp là hình ảnh của sự khiêm nhường và tiếp nhận. Người muốn quy tụ người khác cần biết nghe và phục vụ, không chỉ đứng cao để ra lệnh.",
+    "practice": "Để người ít được nghe có cơ hội nói trước.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 66"
+  },
+  {
+    "chapter": 67,
+    "original": "一曰慈，二曰儉，三曰不敢為天下先",
+    "text": "Một là lòng từ, hai là tiết kiệm, ba là không dám tranh đứng trước thiên hạ.",
+    "meaning": "Ba điều quý được Lão Tử nêu là lòng thương, sự chừng mực và thái độ không tranh hơn. Chúng nâng đỡ nhau: biết thương thì bớt gây tổn hại, biết tiết chế thì còn sức nuôi dưỡng.",
+    "practice": "Chọn một hành động vừa tử tế vừa tiết chế.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 67"
+  },
+  {
+    "chapter": 68,
+    "original": "善戰者不怒",
+    "text": "Người khéo ứng xử trong đối đầu không để cơn giận dẫn dắt.",
+    "meaning": "Người giỏi không cần hung hăng, người khéo chiến thắng không vội nổi giận. Chương đặt đức không tranh cạnh năng lực dùng người và tinh thần biết ở thấp.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 68"
+  },
+  {
+    "chapter": 69,
+    "original": "禍莫大於輕敵",
+    "text": "Không họa nào lớn bằng coi thường đối phương.",
+    "meaning": "Lão Tử dùng hình ảnh lùi một bước và không coi thường đối phương để cảnh báo hiếu chiến. Lòng thương và ý thức về tổn thất quan trọng hơn việc chứng tỏ mình mạnh.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 69"
+  },
+  {
+    "chapter": 70,
+    "original": "是以聖人被褐懷玉",
+    "text": "Bởi vậy, bậc thánh mặc áo thô mà mang ngọc trong lòng.",
+    "meaning": "Lời của Lão Tử được nói là dễ hiểu mà ít người thực hành được. Hình ảnh mặc áo thô, mang ngọc trong lòng gợi giá trị nội tâm không cần phô bày.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 70"
+  },
+  {
+    "chapter": 71,
+    "original": "知不知，上；不知知，病",
+    "text": "Biết mình chưa biết là cao; không biết mà tưởng biết là bệnh.",
+    "meaning": "Nhận ra giới hạn hiểu biết mở đường cho học hỏi. Cái đáng ngại là cố giữ vẻ chắc chắn khi chưa hiểu, khiến ta không còn khả năng sửa mình.",
+    "practice": "Thừa nhận một điều chưa rõ và tìm hiểu thêm.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 71"
+  },
+  {
+    "chapter": 72,
+    "original": "自知不自見；自愛不自貴",
+    "text": "Tự biết mà không tự phô; tự trọng mà không tự đề cao.",
+    "meaning": "Người cầm quyền cần tránh làm đời sống người dân trở nên ngột ngạt. Tự biết và tự trọng được phân biệt với việc tự phô bày, tự đề cao.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 72"
+  },
+  {
+    "chapter": 73,
+    "original": "天之道，不爭而善勝",
+    "text": "Đạo trời không tranh mà khéo thắng.",
+    "meaning": "Chương đặt sự liều lĩnh cạnh lòng can đảm không hiếu chiến. Lưới trời là hình ảnh về trật tự rộng lớn, không phải cơ sở để dự đoán số phận từng người.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 73"
+  },
+  {
+    "chapter": 74,
+    "original": "民不畏死，奈何以死懼之",
+    "text": "Dân không sợ chết, sao có thể lấy cái chết làm họ sợ?",
+    "meaning": "Dùng cái chết để đe dọa không có tác dụng khi người dân không còn sợ chết. Hình ảnh thay thợ cả đẽo gỗ cảnh báo sự lạm quyền và hậu quả tự gây ra.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 74"
+  },
+  {
+    "chapter": 75,
+    "original": "民之饑，以其上食稅之多，是以饑",
+    "text": "Dân đói vì người trên lấy thuế quá nhiều, bởi vậy mới đói.",
+    "meaning": "Thuế khóa và sự can thiệp quá mức của người cai trị được gắn với đói khổ, khó trị. Chương nhắc nhìn nguyên nhân từ cấu trúc quyền lực thay vì chỉ quy lỗi cho người chịu khổ.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 75"
+  },
+  {
+    "chapter": 76,
+    "original": "人之生也柔弱，其死也堅強",
+    "text": "Con người khi sống thì mềm mại; khi chết thì cứng đờ.",
+    "meaning": "Qua hình ảnh thân thể và cây cỏ, chương này nối sự mềm với sức sống. Khả năng uốn mình, thay đổi và tiếp nhận là dấu hiệu của sinh trưởng.",
+    "practice": "Thử linh hoạt với một thay đổi nhỏ trong ngày.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 76"
+  },
+  {
+    "chapter": 77,
+    "original": "有餘者損之，不足者補之",
+    "text": "Chỗ thừa thì bớt, chỗ thiếu thì bù.",
+    "meaning": "Đạo trời được ví như giương cung: hạ cao, nâng thấp, bớt thừa, bù thiếu. Chương đối chiếu điều ấy với thói quen lấy của người thiếu để thêm cho người dư, gợi trách nhiệm chia sẻ.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 77"
+  },
+  {
+    "chapter": 78,
+    "original": "天下莫柔弱於水，而攻堅強者莫之能勝",
+    "text": "Trong thiên hạ, không gì mềm yếu hơn nước; nhưng thắng cái cứng mạnh thì không gì hơn được nước.",
+    "meaning": "Nước không cần giữ một hình dạng cố định mà vẫn có sức bền lớn. Câu kinh nhắc rằng hiệu quả không nhất thiết đến từ sự đối đầu hay vẻ mạnh mẽ.",
+    "practice": "Kiên trì một việc bằng nhịp đều đặn, không gắng sức quá mức.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 78"
+  },
+  {
+    "chapter": 79,
+    "original": "聖人執左契，而不責於人",
+    "text": "Bậc thánh giữ phần giao ước của mình mà không chỉ đòi hỏi nơi người.",
+    "meaning": "Sau hòa giải vẫn có thể còn dư oán. Người có đức không chỉ đòi phần mình theo giao ước mà còn chú ý trách nhiệm và cách tránh nuôi thêm sự đối kháng.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 79"
+  },
+  {
+    "chapter": 80,
+    "original": "甘其食，美其服，安其居，樂其俗",
+    "text": "Thấy ngon với thức ăn, đẹp với áo mặc, yên với chỗ ở, vui với nếp sống của mình.",
+    "meaning": "Bức tranh nước nhỏ, dân ít diễn tả khát vọng yên ổn, giản dị và gần gũi. Nên đọc đây như một hình dung triết học về biết đủ, không nhất thiết là mô hình xã hội phải áp dụng nguyên xi.",
+    "practice": "Chọn một điều từ ý chương để thực hành hôm nay, rồi ghi lại điều bạn nhận ra.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 80"
+  },
+  {
+    "chapter": 81,
+    "original": "信言不美，美言不信",
+    "text": "Lời chân thật không cần tô đẹp; lời tô đẹp chưa chắc chân thật.",
+    "meaning": "Lão Tử đặt sự đáng tin lên trên vẻ trau chuốt. Điều này không có nghĩa mọi lời đẹp đều sai, mà nhắc ta đừng lấy sức hấp dẫn của lời nói thay cho sự thật.",
+    "practice": "Nói một điều chân thành, rõ ràng và không phóng đại.",
+    "author": "Lão Tử · Đạo Đức Kinh · Chương 81"
+  }
+]

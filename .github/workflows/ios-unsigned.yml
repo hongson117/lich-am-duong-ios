@@ -1,0 +1,102 @@
+name: Build unsigned iOS IPA
+
+on:
+  workflow_dispatch:
+    inputs:
+      publish_release:
+        description: Upload the IPA to a private GitHub prerelease
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ios-unsigned
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: macos-26
+    timeout-minutes: 90
+    permissions:
+      contents: write
+    env:
+      CI: '1'
+      EXPO_NO_TELEMETRY: '1'
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Toolchain
+        run: |
+          sudo xcode-select --switch /Applications/Xcode_26.6.app/Contents/Developer
+          xcodebuild -version
+          node --version
+          pod --version
+      - name: Install locked dependencies
+        run: npm ci
+      - name: Verify source and artwork
+        run: |
+          npm run typecheck
+          npm test
+          npm run lint
+          node scripts/check-artwork.mjs
+      - name: Generate native iOS project
+        run: npx expo prebuild --platform ios --no-install
+      - name: Install CocoaPods
+        working-directory: ios
+        run: pod install
+      - name: Archive for real iPhones without signing
+        shell: bash
+        run: |
+          set -euo pipefail
+          WORKSPACE="$(find ios -maxdepth 1 -name '*.xcworkspace' -print -quit)"
+          test -n "$WORKSPACE"
+          SCHEME="$(basename "$WORKSPACE" .xcworkspace)"
+          echo "Building $SCHEME"
+          mkdir -p build
+          xcodebuild -workspace "$WORKSPACE" -scheme "$SCHEME" \
+            -configuration Release -sdk iphoneos -destination 'generic/platform=iOS' \
+            -archivePath "$PWD/build/LichAmDuong.xcarchive" \
+            -derivedDataPath "$PWD/build/DerivedData" \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" \
+            DEVELOPMENT_TEAM="" archive 2>&1 | tee build/xcodebuild.log
+      - name: Package and validate unsigned IPA
+        run: python3 scripts/package-unsigned-ipa.py
+      - name: Upload IPA artifact
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Lich-Am-Duong-unsigned-IPA
+          path: |
+            build/Lich-Am-Duong-unsigned.ipa
+            build/SHA256SUMS.txt
+            build/IPA-INFO.json
+            docs/UNSIGNED-IPA.md
+          retention-days: 30
+          if-no-files-found: error
+      - name: Publish private prerelease
+        if: inputs.publish_release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          TAG="unsigned-${{ github.run_number }}"
+          gh release create "$TAG" \
+            build/Lich-Am-Duong-unsigned.ipa build/SHA256SUMS.txt build/IPA-INFO.json \
+            --repo "${{ github.repository }}" --target "${{ github.sha }}" \
+            --prerelease --title "Lịch Âm Dương — unsigned IPA #${{ github.run_number }}" \
+            --notes-file docs/UNSIGNED-IPA.md
+      - name: Upload build logs if unsuccessful
+        if: failure()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: iOS-build-diagnostics
+          path: |
+            build/xcodebuild.log
+            ios/Podfile.lock
+          retention-days: 7
+          if-no-files-found: ignore

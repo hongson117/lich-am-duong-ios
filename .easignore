@@ -1,0 +1,15 @@
+node_modules
+.git
+.expo
+dist
+ios-export
+test-results
+playwright-report
+docs/screenshots
+
+art-originals
+.claude
+.codex
+build
+*.ipa
+credentials.json

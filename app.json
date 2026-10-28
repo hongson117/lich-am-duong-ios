@@ -1,0 +1,74 @@
+{
+  "expo": {
+    "name": "Lịch Âm Dương",
+    "slug": "lich-am-duong",
+    "scheme": "lichamduong",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-3d.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "vn.lichamduong.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Lịch Âm Dương",
+        "CFBundleDevelopmentRegion": "vi",
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "privacyManifests": {
+        "NSPrivacyAccessedAPITypes": [
+          {
+            "NSPrivacyAccessedAPIType": "NSPrivacyAccessedAPICategoryUserDefaults",
+            "NSPrivacyAccessedAPITypeReasons": [
+              "CA92.1"
+            ]
+          }
+        ]
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo-3d.png",
+      "name": "Lịch Âm Dương",
+      "shortName": "Lịch Âm Dương",
+      "themeColor": "#2E6B50",
+      "backgroundColor": "#FAF7EF"
+    },
+    "plugins": [
+      "expo-sharing",
+      "expo-document-picker",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/logo-3d.png",
+          "imageWidth": 210,
+          "resizeMode": "contain",
+          "backgroundColor": "#FAF7EF"
+        }
+      ],
+      "expo-notifications",
+      [
+        "expo-widgets",
+        {
+          "groupIdentifier": "group.vn.lichamduong.app",
+          "widgets": [
+            {
+              "name": "LichAmDuongWidget",
+              "displayName": "Lịch Âm Dương",
+              "description": "Ngày âm Việt Nam và Đạo Đức Kinh mỗi ngày.",
+              "ios": {
+                "supportedFamilies": [
+                  "systemSmall",
+                  "systemMedium",
+                  "accessoryRectangular",
+                  "accessoryInline"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "expo-font"
+    ]
+  }
+}
