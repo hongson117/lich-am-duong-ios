@@ -26,7 +26,6 @@ jobs:
       EXPO_NO_TELEMETRY: '1'
       # Canonical Maven Central endpoint; React Native supports this override.
       ENTERPRISE_REPOSITORY: https://repo.maven.apache.org/maven2
-      CURL_HOME: ${{ runner.temp }}/curl-config
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
@@ -42,8 +41,10 @@ jobs:
       - name: Bound network downloads and avoid HTTP2 stream failures
         shell: bash
         run: |
-          mkdir -p "$CURL_HOME"
-          cat > "$CURL_HOME/.curlrc" <<'EOF'
+          download_config_dir="$RUNNER_TEMP/lich-am-duong-curl"
+          mkdir -p "$download_config_dir"
+          echo "CURL_HOME=$download_config_dir" >> "$GITHUB_ENV"
+          cat > "$download_config_dir/.curlrc" <<'EOF'
           http1.1
           retry = 3
           retry-all-errors
