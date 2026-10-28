@@ -1,5 +1,6 @@
 import React from 'react';
-import { ImageBackground, View } from 'react-native';
+import { View } from 'react-native';
+import { ImageBackground } from 'expo-image';
 import { LinearGradient } from 'expo-linear-gradient';
 import { CivilDate, todayVietnam } from '../lib/calendar';
 import { villageArtwork } from '../data/artwork';

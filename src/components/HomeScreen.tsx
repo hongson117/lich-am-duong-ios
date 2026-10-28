@@ -1,6 +1,7 @@
 import { Text } from './Typography';
 import React, { useMemo } from 'react';
-import { View, ImageBackground, StyleSheet, Pressable, Share } from 'react-native';
+import { View, StyleSheet, Pressable, Share } from 'react-native';
+import { ImageBackground } from 'expo-image';
 import { LinearGradient } from 'expo-linear-gradient';
 import { CivilDate, formatDate, WEEKDAYS, weekday, solarToLunar, canChiDay, canChiMonth, canChiYear, dateKey, addDays, isValidDate } from '../lib/calendar';
 import { chapterArtwork } from '../data/artwork';
@@ -19,7 +20,7 @@ export function HomeScreen({ date, today, onDate, onJump, onCalendar, onMemorial
   return <>
     <View style={s.row}><View style={{ gap: 7 }}><Text style={s.eyebrow}>MỖI NGÀY, MỘT NIỀM VUI</Text><Text style={s.title}>{isToday ? 'Chào ngày mới.' : 'Một ngày để nhớ.'}</Text></View><Pressable accessibilityRole="button" onPress={onJump} accessibilityLabel="Chọn ngày" style={hs.round}><Icon name="calendar-outline" color={C.green} /></Pressable></View>
     <View style={hs.hero}>
-      <ImageBackground testID="daily-artwork" accessibilityLabel={`Minh họa Đạo Đức Kinh chương ${quote.chapter}`} source={art.image} style={hs.heroImage} imageStyle={{ opacity: .98, width: '100%', height: '100%' }} resizeMode="cover">
+      <ImageBackground testID="daily-artwork" accessibilityLabel={`Minh họa Đạo Đức Kinh chương ${quote.chapter}`} source={art.image} style={hs.heroImage} imageStyle={{ opacity: .98, width: '100%', height: '100%' }} contentFit="cover">
         <LinearGradient colors={['#FBF0DBF0', '#FBF0DB66', '#FBF0DB00']} locations={[0, .35, .7]} style={StyleSheet.absoluteFill} />
         <View style={hs.heroTop}><View><Text style={hs.weekday}>{WEEKDAYS[weekday(date)].toUpperCase()}</Text><Text style={hs.day}>{String(date.day).padStart(2, '0')}</Text><Text style={hs.month}>Tháng {date.month}, {date.year}</Text></View><View style={hs.heroBadge}><Icon name="sunny-outline" size={14} color={C.ink} /><Text style={{ color: C.ink, fontSize: 10, fontWeight: '600' }}>{isToday ? 'HÔM NAY' : 'LỊCH NGÀY'}</Text></View></View>
         <View style={hs.artCaption}><Text numberOfLines={2} style={{ color: '#fff', fontSize: 10, letterSpacing: 1, flex: 1 }}>CHƯƠNG {quote.chapter} · {art.title.toLocaleUpperCase('vi-VN')}</Text><Icon name="leaf-outline" size={17} color="#fff" /></View>

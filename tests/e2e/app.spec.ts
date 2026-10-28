@@ -4,6 +4,8 @@ test.beforeEach(async ({ page }) => {
   await page.clock.setFixedTime(new Date('2026-10-28T03:00:00Z'));
   await page.goto('/');
   await expect(page.getByText('Chào ngày mới.')).toBeVisible();
+  const hero = page.getByRole('img', { name: /Minh họa Đạo Đức Kinh chương/ }).last();
+  await expect.poll(() => hero.evaluate(el => (el as HTMLImageElement).complete && (el as HTMLImageElement).naturalWidth > 0)).toBe(true);
 });
 test('Home, date conversion, calendar navigation and mobile layout', async ({ page }) => {
   const errors: string[] = []; page.on('pageerror', e => errors.push(e.message));
@@ -107,14 +109,16 @@ test('Corrupt stored data is reported, not overwritten', async ({ page }) => {
 });
 
 test('Daily illustration advances with the chapter and uses a system font', async ({ page }) => {
-  const art = page.getByTestId('daily-artwork');
-  const first = await art.getAttribute('aria-label');
+  const art = page.getByRole('img', { name: /Minh họa Đạo Đức Kinh chương/ }).last();
+  const first = await art.getAttribute('alt');
+  await expect(art).toHaveAttribute('src', /\.webp/);
+  expect(await art.evaluate(el => (el as HTMLImageElement).naturalWidth)).toBe(800);
   expect(first).toMatch(/Minh họa Đạo Đức Kinh chương \d+/);
   const chapter = Number(first!.match(/(\d+)$/)![1]);
   await expect(page.getByText('Lão Tử · Đạo Đức Kinh · Chương ' + chapter, { exact: true })).toBeVisible();
   await page.getByRole('button', { name: 'Ngày sau', exact: true }).click();
   const nextChapter = chapter === 81 ? 1 : chapter + 1;
-  await expect(art).toHaveAttribute('aria-label', 'Minh họa Đạo Đức Kinh chương ' + nextChapter);
+  await expect(art).toHaveAttribute('alt', 'Minh họa Đạo Đức Kinh chương ' + nextChapter);
   await expect(page.getByText('Lão Tử · Đạo Đức Kinh · Chương ' + nextChapter, { exact: true })).toBeVisible();
   const family = await page.getByText('Lịch Âm Dương', { exact: true }).first().evaluate(el => getComputedStyle(el).fontFamily);
   expect(family).toContain('-apple-system');

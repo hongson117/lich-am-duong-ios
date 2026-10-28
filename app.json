@@ -3,14 +3,14 @@
     "name": "Lịch Âm Dương",
     "slug": "lich-am-duong",
     "scheme": "lichamduong",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
-    "icon": "./assets/logo-3d.png",
+    "icon": "./assets/app-icon.png",
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "vn.lichamduong.app",
-      "buildNumber": "1",
+      "buildNumber": "2",
       "infoPlist": {
         "CFBundleDisplayName": "Lịch Âm Dương",
         "CFBundleDevelopmentRegion": "vi",
@@ -28,7 +28,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/logo-3d.png",
+      "favicon": "./assets/favicon-small.png",
       "name": "Lịch Âm Dương",
       "shortName": "Lịch Âm Dương",
       "themeColor": "#2E6B50",
@@ -40,7 +40,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/logo-3d.png",
+          "image": "./assets/splash-logo.png",
           "imageWidth": 210,
           "resizeMode": "contain",
           "backgroundColor": "#FAF7EF"
@@ -68,7 +68,13 @@
           ]
         }
       ],
-      "expo-font"
+      "expo-font",
+      [
+        "expo-image",
+        {
+          "disableLibdav1d": true
+        }
+      ]
     ]
   }
 }

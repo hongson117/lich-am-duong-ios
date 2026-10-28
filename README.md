@@ -27,7 +27,7 @@ File chưa ký phải được ký lại trước khi cài; widget cần công c
 - 81 tranh Đạo Đức Kinh: lịch ngày, câu trích và giải nghĩa cùng một chương; luân phiên chu kỳ 81 ngày. Mỗi trang chương dùng lại đúng tranh của mình.
 - 31 tranh Việt Nam: minh họa các tab, thay đổi theo ngày với lựa chọn riêng từng tab.
 - Font iPhone dùng San Francisco do iOS cung cấp qua font hệ thống; không phân phối tệp font Apple.
-- Ảnh chạy trong app được tối ưu JPEG, có thumbnail cho danh sách. PNG gốc và hồ sơ tạo ảnh được giữ trong art-originals/ tại dự án local; thư mục này không đưa lên Git để giảm kích thước repository.
+- Ảnh chạy trong app được tối ưu WebP từ PNG gốc: tranh chương 800 px/Q58, ảnh đầu tab 768 px/Q56, thumbnail 160 px/Q50. PNG gốc và hồ sơ tạo ảnh được giữ trong art-originals/ tại dự án local; thư mục này không đưa lên Git để giảm kích thước repository.
 
 ## Chức năng
 

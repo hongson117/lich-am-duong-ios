@@ -1,0 +1,31 @@
+{
+  "beforeArtworkBytes": 42602140,
+  "afterArtworkBytes": 9775936,
+  "savedPercent": 77.05,
+  "mainImages": 112,
+  "thumbnails": 81,
+  "runtimeLogoBytes": 59080,
+  "nativePNGBytes": 822664,
+  "profile": {
+    "tao": {
+      "width": 800,
+      "height": 800,
+      "quality": 58
+    },
+    "village": {
+      "width": 768,
+      "height": 512,
+      "quality": 56
+    },
+    "thumbnail": {
+      "width": 160,
+      "height": 160,
+      "quality": 50
+    },
+    "logo": {
+      "width": 480,
+      "height": 480,
+      "quality": 70
+    }
+  }
+}

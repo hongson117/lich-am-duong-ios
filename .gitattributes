@@ -3,3 +3,4 @@
 *.png -text
 *.jpg -text
 docs/sources/*.html -text -whitespace
+*.webp -text

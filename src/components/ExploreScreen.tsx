@@ -1,6 +1,7 @@
 import { Text } from './Typography';
 import React from 'react';
-import { View, Image } from 'react-native';
+import { View } from 'react-native';
+import { Image } from 'expo-image';
 import { PersonalData } from '../lib/personal';
 import { Card, Button, Section, s } from './UI';
 import { TabArtwork } from './TabArtwork';
@@ -9,7 +10,7 @@ export function ExploreScreen({ onMindfulness, personal, onPersonal, nativeStatu
   return <>
     <View style={{ gap: 7 }}><Text style={s.eyebrow}>NHỮNG ĐIỀU NHỎ, HỮU ÍCH MỖI NGÀY</Text><Text style={s.title}>Tiện ích của bạn.</Text></View>
     <TabArtwork offset={21} />
-    <Card style={{ flexDirection: 'row', alignItems: 'center', gap: 16, backgroundColor: '#EFEBDD' }}><Image source={require('../../assets/logo-3d.png')} style={{ width: 88, height: 88, borderRadius: 20 }} /><View style={{ flex: 1, gap: 6 }}><Text style={s.sectionTitle}>Lịch Âm Dương</Text><Text style={s.small}>Gìn giữ nếp Việt,{ '\n' }đón những ngày lành.</Text></View></Card>
+    <Card style={{ flexDirection: 'row', alignItems: 'center', gap: 16, backgroundColor: '#EFEBDD' }}><Image source={require('../../assets/logo-ui.webp')} style={{ width: 88, height: 88, borderRadius: 20 }} /><View style={{ flex: 1, gap: 6 }}><Text style={s.sectionTitle}>Lịch Âm Dương</Text><Text style={s.small}>Gìn giữ nếp Việt,{ '\n' }đón những ngày lành.</Text></View></Card>
     <Button secondary icon="swap-horizontal" onPress={onConvert}>Chuyển đổi ngày âm dương</Button>
     <Button secondary icon="book-outline" onPress={onMindfulness}>81 chương Đạo Đức Kinh</Button>
     {ready && <NativeSettings settings={personal.reminders} onSave={reminders => onPersonal(p => ({ ...p, reminders }))} status={nativeStatus} />}

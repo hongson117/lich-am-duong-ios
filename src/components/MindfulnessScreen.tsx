@@ -1,6 +1,7 @@
 import { Text } from './Typography';
 import React, { useState } from 'react';
-import { View, Pressable, Linking, ImageBackground, Image } from 'react-native';
+import { View, Pressable, Linking } from 'react-native';
+import { ImageBackground, Image } from 'expo-image';
 import { chapterArtwork, villageArtwork } from '../data/artwork';
 import { todayVietnam } from '../lib/calendar';
 import { LinearGradient } from 'expo-linear-gradient';
