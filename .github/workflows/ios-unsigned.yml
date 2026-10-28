@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       publish_release:
-        description: Upload the IPA to a private GitHub prerelease
+        description: Upload the IPA to a GitHub prerelease
         type: boolean
         default: true
 
@@ -77,7 +77,7 @@ jobs:
             docs/UNSIGNED-IPA.md
           retention-days: 30
           if-no-files-found: error
-      - name: Publish private prerelease
+      - name: Publish prerelease
         if: inputs.publish_release
         env:
           GH_TOKEN: ${{ github.token }}

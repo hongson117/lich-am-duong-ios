@@ -16,7 +16,7 @@ Mở `http://127.0.0.1:4318` để dùng bản xem trước đã xuất trong `d
 
 ## IPA chưa ký trên GitHub
 
-Repository riêng tư: https://github.com/hongson117/lich-am-duong-ios
+Repository công khai: https://github.com/hongson117/lich-am-duong-ios
 
 Chạy workflow **Build unsigned iOS IPA** trong Actions. Máy macOS 26/Xcode 26.6 tạo native project bằng Expo prebuild, cài Pods, archive cho iPhone arm64 với signing tắt, kiểm tra binary rồi đóng gói IPA. Bản thành công được lưu trong Artifacts và GitHub prerelease khi bật tùy chọn xuất release. Không cần Expo token hoặc khóa Apple cho quy trình unsigned này.
 
